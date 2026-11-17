@@ -2,9 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,40:1D4ED8,70:7F1D1D,100:DC2626&height=220&section=header&text=FACTURA%20DE%20COMPRA&fontSize=55&fontColor=FFFFFF&stroke=0B1026&strokeWidth=2&animation=fadeIn&fontAlignY=38&desc=EL%20SENTIDO%20AR%C3%81CNIDO%20DE%20LAS%20VENTAS%20%C2%B7%20JAVA&descSize=16&descAlignY=62" width="100%" alt="Factura de compra">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,40:1D4ED8,70:7F1D1D,100:DC2626&height=220&section=header&text=TAREA-PROGRAMACION&fontSize=55&fontColor=FFFFFF&stroke=0B1026&strokeWidth=2&animation=fadeIn&fontAlignY=38&desc=compraProducto.java&descSize=20&descAlignY=62" width="100%" alt="tarea-programacion · compraProducto">
 
-# 🕷️ COMPRA DE PRODUCTO · LA RED DEL VECINDARIO 🕸️
+# 🕷️ TAREA-PROGRAMACION 🕸️
+
+### 🕸️ compraProducto.java
+
+*Códigos de programación en Java y C++*
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3500&pause=1200&color=DC2626&background=0B1026&center=true&vCenter=true&width=900&height=70&lines=%F0%9F%95%B7+TU+AMIGABLE+VECINO+PROGRAMADOR+%F0%9F%95%B7;%F0%9F%95%B8+UNIVERSIDAD+TECNICA+DE+AMBATO+%F0%9F%95%B8;%F0%9F%95%B7+ENTRADA%2C+PROCESO+Y+SALIDA+EN+JAVA+%F0%9F%95%B7;%F0%9F%95%B8+UN+GRAN+PODER+CONLLEVA+UNA+GRAN+RESPONSABILIDAD+%F0%9F%95%B8" width="100%" alt="Texto animado del repositorio">
 
@@ -228,7 +232,7 @@ Dinero insuficiente. Falta: $4.00
 ## 🗂️ La guarida · Estructura del repositorio
 
 ```text
-compraProducto/
+tarea-programacion/
 ┣ 📜 compraProducto.java
 ┗ 📜 README.md
 ```
